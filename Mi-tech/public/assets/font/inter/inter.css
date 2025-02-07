@@ -1,0 +1,30 @@
+/* Base class for Inter font */
+.inter {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+}
+
+/* Light */
+.inter-light {
+    font-weight: 300; /* Light weight */
+    font-style: normal;
+}
+
+/* Regular */
+.inter-regular {
+    font-weight: 400; /* Regular weight */
+    font-style: normal;
+}
+
+/* Medium */
+.inter-medium {
+    font-weight: 500; /* Medium weight */
+    font-style: normal;
+}
+
+/* Bold */
+.inter-bold {
+    font-weight: 700; /* Bold weight */
+    font-style: normal;
+}
+

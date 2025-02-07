@@ -1,0 +1,61 @@
+.card-services{
+    height: 175px;
+}
+.list-services{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    gap: 15px;
+}
+.add-services{
+    height: 40px;
+}
+.table-services{
+    flex: 1;
+    overflow: auto;
+}
+
+.add-services button:first-child,
+.btn-action-service button:first-child {
+    background-color: #FE0000;
+    color: #FEFEFE;
+    transition: all 200ms ease-in-out;
+}
+
+.add-services button:last-child,
+#add-btn-service {
+    background-color: #007BFF;
+    color: #FEFEFE;
+    transition: all 200ms ease-in-out;
+}
+.btn-action-service button:last-child {
+    background-color: #5BC0EB;
+    color: #FEFEFE;
+    transition: all 200ms ease-in-out;
+}
+
+.add-services button:first-child:hover,
+.btn-action-service button:first-child:hover {
+    background-color: #790000;
+    color: #FEFEFE;
+}
+.preview img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.add-services button:last-child:hover,
+#add-btn-service:hover {
+    background-color: #05488f;
+    color: #FEFEFE;
+    transition: all 200ms ease-in-out;
+}
+.btn-action-service button:last-child:hover {
+    background-color: #285366;
+    color: #FEFEFE;
+    transition: all 200ms ease-in-out;
+}
