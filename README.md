@@ -1,4 +1,4 @@
-Projet E-commerce PHP - MVC
+Projet exam(Mi-Tech) E-commerce PHP - MVC
 Description
 
 Ce projet est un site e-commerce développé en PHP en utilisant le modèle MVC (Modèle-Vue-Contrôleur). Il permet de gérer des produits, des utilisateurs, des commandes et des paiements de manière simple et fonctionnelle.
